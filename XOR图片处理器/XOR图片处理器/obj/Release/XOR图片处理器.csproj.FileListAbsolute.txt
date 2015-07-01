@@ -16,3 +16,6 @@ C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR�
 C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.Form1.resources
 C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.Properties.Resources.resources
 C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.csproj.GenerateResource.Cache
+C:\Users\ismdeep\Desktop\xor_picture_process\XOR图片处理器\XOR图片处理器\bin\Release\XOR图片处理器.exe.config
+C:\Users\ismdeep\Desktop\xor_picture_process\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.exe
+C:\Users\ismdeep\Desktop\xor_picture_process\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.pdb
