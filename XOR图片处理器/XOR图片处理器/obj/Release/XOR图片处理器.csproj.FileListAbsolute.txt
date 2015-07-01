@@ -1,0 +1,18 @@
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\bin\Release\XOR图片处理器.exe.config
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.Form1.resources
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.Properties.Resources.resources
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.csproj.GenerateResource.Cache
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\bin\Release\XOR图片处理器.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\bin\Release\XOR图片处理器.pdb
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.pdb
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.csprojResolveAssemblyReference.cache
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\bin\Release\XOR图片处理器.exe.config
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.exe
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.pdb
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\bin\Release\XOR图片处理器.exe
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\bin\Release\XOR图片处理器.pdb
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.csprojResolveAssemblyReference.cache
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.Form1.resources
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.Properties.Resources.resources
+C:\Users\ismdeep\Desktop\XOR图片处理器\XOR图片处理器\obj\Release\XOR图片处理器.csproj.GenerateResource.Cache

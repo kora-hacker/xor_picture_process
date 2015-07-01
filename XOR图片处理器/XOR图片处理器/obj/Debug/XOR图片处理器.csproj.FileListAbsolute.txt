@@ -1,0 +1,9 @@
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\bin\Debug\XOR图片处理器.exe.config
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\bin\Debug\XOR图片处理器.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\bin\Debug\XOR图片处理器.pdb
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Debug\XOR图片处理器.csprojResolveAssemblyReference.cache
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Debug\XOR图片处理器.Form1.resources
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Debug\XOR图片处理器.Properties.Resources.resources
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Debug\XOR图片处理器.csproj.GenerateResource.Cache
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Debug\XOR图片处理器.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\XOR图片处理器\XOR图片处理器\obj\Debug\XOR图片处理器.pdb
